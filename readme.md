@@ -18,7 +18,7 @@
 ![screenshot](Capture.PNG)
 
 ### About
-  This is an image viewer app which shows 6 images in loop with some transitions and moving background.
+  This is an app that shows random quotes from a given set of quotes.
 
 ### Built With
 
