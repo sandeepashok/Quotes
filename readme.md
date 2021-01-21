@@ -18,7 +18,7 @@
 ![screenshot](Capture.PNG)
 
 ### About
-  This is an app that shows random quotes from a given set of quotes.
+  This is an app that shows random quotes from a defined set of quotes.
 
 ### Built With
 
